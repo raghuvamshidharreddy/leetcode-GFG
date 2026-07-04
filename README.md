@@ -90,4 +90,8 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0204-count-primes](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0866-prime-palindrome) |
 | [2761-prime-pairs-with-target-sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2761-prime-pairs-with-target-sum) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
