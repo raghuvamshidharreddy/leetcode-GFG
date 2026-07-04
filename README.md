@@ -71,4 +71,17 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 |  |
 | ------- |
 | [1175-prime-arrangements](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1175-prime-arrangements) |
+| [2761-prime-pairs-with-target-sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2761-prime-pairs-with-target-sum) |
+## Array
+|  |
+| ------- |
+| [2761-prime-pairs-with-target-sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2761-prime-pairs-with-target-sum) |
+## Enumeration
+|  |
+| ------- |
+| [2761-prime-pairs-with-target-sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2761-prime-pairs-with-target-sum) |
+## Number Theory
+|  |
+| ------- |
+| [2761-prime-pairs-with-target-sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2761-prime-pairs-with-target-sum) |
 <!---LeetCode Topics End-->
