@@ -1,5 +1,6 @@
 # leetcode-GFG
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+A collection of LeetCode questions I have solved  - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+My LeetCode Profile -https://leetcode.com/u/v_raghuvamshidharreddy/
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
