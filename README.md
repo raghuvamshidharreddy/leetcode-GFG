@@ -68,6 +68,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0257-binary-tree-paths) |
+| [0345-reverse-vowels-of-a-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0345-reverse-vowels-of-a-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
 |  |
@@ -111,6 +112,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | ------- |
 | [0015-3sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0015-3sum) |
 | [0143-reorder-list](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0143-reorder-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sorting
 |  |
 | ------- |
