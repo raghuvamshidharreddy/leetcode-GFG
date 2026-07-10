@@ -70,6 +70,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | ------- |
 | [0257-binary-tree-paths](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0345-reverse-vowels-of-a-string) |
+| [0434-number-of-segments-in-a-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0434-number-of-segments-in-a-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
 |  |
