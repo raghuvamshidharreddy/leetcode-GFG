@@ -83,6 +83,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 |  |
 | ------- |
 | [0015-3sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0015-3sum) |
+| [0137-single-number-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0204-count-primes) |
 | [1288-remove-covered-intervals](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1288-remove-covered-intervals) |
 | [2761-prime-pairs-with-target-sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2761-prime-pairs-with-target-sum) |
@@ -124,4 +125,8 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0206-reverse-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
