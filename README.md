@@ -118,6 +118,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0184-department-highest-salary](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0184-department-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0620-not-boring-movies](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0620-not-boring-movies) |
+| [1280-students-and-examinations](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1280-students-and-examinations) |
 ## Two Pointers
 |  |
 | ------- |
