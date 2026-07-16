@@ -72,6 +72,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0143-reorder-list](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0225-implement-stack-using-queues) |
 ## Binary Search Tree
 |  |
@@ -94,6 +95,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0204-count-primes) |
 | [0233-number-of-digit-one](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0233-number-of-digit-one) |
 | [0866-prime-palindrome](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0866-prime-palindrome) |
@@ -107,6 +109,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0054-spiral-matrix](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0054-spiral-matrix) |
 | [0090-subsets-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
