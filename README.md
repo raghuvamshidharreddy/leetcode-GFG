@@ -18,6 +18,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0129-sum-root-to-leaf-numbers](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0543-diameter-of-binary-tree) |
@@ -61,6 +62,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0129-sum-root-to-leaf-numbers](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0543-diameter-of-binary-tree) |
@@ -73,6 +75,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0144-binary-tree-preorder-traversal](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0173-binary-search-tree-iterator](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0225-implement-stack-using-queues) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -80,6 +83,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0173-binary-search-tree-iterator) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0700-search-in-a-binary-search-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0700-search-in-a-binary-search-tree) |
 ## String
@@ -185,6 +189,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0225-implement-stack-using-queues) |
 ## Queue
 |  |
@@ -232,4 +237,8 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
