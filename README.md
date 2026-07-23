@@ -113,6 +113,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0866-prime-palindrome](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0866-prime-palindrome) |
 | [1175-prime-arrangements](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1175-prime-arrangements) |
 | [2761-prime-pairs-with-target-sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2761-prime-pairs-with-target-sum) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Array
 |  |
@@ -131,6 +132,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [1331-rank-transform-of-an-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1331-rank-transform-of-an-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2761-prime-pairs-with-target-sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2761-prime-pairs-with-target-sum) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -190,6 +192,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | ------- |
 | [0090-subsets-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0137-single-number-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Design
 |  |
 | ------- |
