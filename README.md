@@ -48,6 +48,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0104-maximum-depth-of-binary-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0226-invert-binary-tree) |
+| [0994-rotting-oranges](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -128,6 +129,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0215-kth-largest-element-in-an-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0994-rotting-oranges](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1331-rank-transform-of-an-array) |
@@ -223,6 +225,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | ------- |
 | [0054-spiral-matrix](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0054-spiral-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0994-rotting-oranges](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Hash Table
