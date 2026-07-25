@@ -6,6 +6,8 @@
 #         self.right = right
 class Solution:
     def convertBST(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
+        if root is None:
+            return 
         def inorder(root,res):
             if root is None:
                 return 
@@ -14,13 +16,19 @@ class Solution:
             inorder(root.right,res)
         res=[]
         inorder(root,res)
-
-        def changer(root,res):
+        n=len(res)
+        sufixSum=[0]*(n)
+        sufixSum[n-1]=res[n-1]
+        for i in range(len(res)-2,-1,-1):
+            sufixSum[i]=sufixSum[i+1]+res[i]
+        dic={}
+        for i in range(n):
+            dic[res[i]]=sufixSum[i]
+        def changer(root,dic):
             if root is None:
                 return 
-            idx=res.index(root.val)
-            root.val=sum(res[idx:])
-            changer(root.left,res)
-            changer(root.right,res)
-        changer(root,res)
+            root.val=dic[root.val]
+            changer(root.left,dic)
+            changer(root.right,dic)
+        changer(root,dic)
         return root
