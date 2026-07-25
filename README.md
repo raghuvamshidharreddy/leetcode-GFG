@@ -115,6 +115,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [1175-prime-arrangements](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1175-prime-arrangements) |
 | [2761-prime-pairs-with-target-sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2761-prime-pairs-with-target-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3536-maximum-product-of-two-digits) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Array
 |  |
@@ -173,6 +174,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1288-remove-covered-intervals](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1331-rank-transform-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3536-maximum-product-of-two-digits) |
 ## Prefix Sum
 |  |
 | ------- |
