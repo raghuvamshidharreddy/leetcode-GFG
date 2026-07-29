@@ -128,6 +128,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0015-3sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0015-3sum) |
 | [0054-spiral-matrix](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0054-spiral-matrix) |
 | [0090-subsets-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0090-subsets-ii) |
+| [0119-pascals-triangle-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0119-pascals-triangle-ii) |
 | [0137-single-number-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -249,6 +250,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0119-pascals-triangle-ii) |
 | [0233-number-of-digit-one](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0233-number-of-digit-one) |
 ## Greedy
 |  |
