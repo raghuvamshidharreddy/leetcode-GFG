@@ -95,6 +95,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0022-generate-parentheses) |
 | [0224-basic-calculator](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0345-reverse-vowels-of-a-string) |
@@ -106,6 +107,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0257-binary-tree-paths) |
@@ -250,6 +252,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0022-generate-parentheses) |
 | [0119-pascals-triangle-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0119-pascals-triangle-ii) |
 | [0233-number-of-digit-one](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0233-number-of-digit-one) |
 ## Greedy
