@@ -36,6 +36,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0129-sum-root-to-leaf-numbers](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0257-binary-tree-paths) |
 | [0538-convert-bst-to-greater-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0538-convert-bst-to-greater-tree) |
@@ -49,6 +50,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0226-invert-binary-tree) |
 | [0994-rotting-oranges](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0994-rotting-oranges) |
 ## Binary Tree
@@ -135,6 +137,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0137-single-number-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0239-sliding-window-maximum) |
@@ -239,6 +242,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0994-rotting-oranges](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1260-shift-2d-grid) |
@@ -286,4 +290,8 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
