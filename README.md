@@ -21,6 +21,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0173-binary-search-tree-iterator](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0404-sum-of-left-leaves) |
 | [0538-convert-bst-to-greater-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0700-search-in-a-binary-search-tree) |
@@ -39,6 +40,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0200-number-of-islands](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0404-sum-of-left-leaves) |
 | [0538-convert-bst-to-greater-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
@@ -52,6 +54,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0404-sum-of-left-leaves) |
 | [0994-rotting-oranges](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -70,6 +73,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0173-binary-search-tree-iterator](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0404-sum-of-left-leaves) |
 | [0538-convert-bst-to-greater-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0700-search-in-a-binary-search-tree) |
