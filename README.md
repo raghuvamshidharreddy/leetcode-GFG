@@ -185,6 +185,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [1084-sales-analysis-iii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1084-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1280-students-and-examinations](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1280-students-and-examinations) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Two Pointers
 |  |
 | ------- |
