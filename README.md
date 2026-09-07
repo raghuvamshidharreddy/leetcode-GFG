@@ -183,6 +183,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0620-not-boring-movies](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0620-not-boring-movies) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1068-product-sales-analysis-i) |
+| [1070-product-sales-analysis-iii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1070-product-sales-analysis-iii) |
 | [1084-sales-analysis-iii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1084-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1193-monthly-transactions-i) |
