@@ -144,6 +144,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0054-spiral-matrix](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0054-spiral-matrix) |
 | [0090-subsets-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -236,6 +237,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0137-single-number-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Design
