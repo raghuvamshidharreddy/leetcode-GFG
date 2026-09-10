@@ -211,6 +211,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [1280-students-and-examinations](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1407-top-travellers) |
+| [1661-average-time-of-process-per-machine](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1661-average-time-of-process-per-machine) |
 ## Two Pointers
 |  |
 | ------- |
