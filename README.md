@@ -104,6 +104,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0022-generate-parentheses) |
 | [0224-basic-calculator](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0224-basic-calculator) |
@@ -128,6 +129,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -284,6 +286,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0013-roman-to-integer) |
 | [1331-rank-transform-of-an-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1331-rank-transform-of-an-array) |
 | [3731-find-missing-elements](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3731-find-missing-elements) |
