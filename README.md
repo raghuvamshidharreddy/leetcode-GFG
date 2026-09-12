@@ -102,6 +102,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0538-convert-bst-to-greater-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0538-convert-bst-to-greater-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0700-search-in-a-binary-search-tree) |
+| [0704-binary-search](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0704-binary-search) |
 | [2054-two-best-non-overlapping-events](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2054-two-best-non-overlapping-events) |
 ## String
 |  |
@@ -168,6 +169,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0307-range-sum-query-mutable](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0307-range-sum-query-mutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0704-binary-search) |
 | [0994-rotting-oranges](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1288-remove-covered-intervals) |
