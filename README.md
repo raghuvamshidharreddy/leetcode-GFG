@@ -206,6 +206,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0184-department-highest-salary](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0184-department-highest-salary) |
 | [0262-trips-and-users](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0262-trips-and-users) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0584-find-customer-referee](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0584-find-customer-referee) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0620-not-boring-movies](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0620-not-boring-movies) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
