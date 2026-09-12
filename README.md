@@ -222,6 +222,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [1393-capital-gainloss](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1393-capital-gainloss) |
 | [1407-top-travellers](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1484-group-sold-products-by-the-date) |
+| [1527-patients-with-a-condition](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1527-patients-with-a-condition) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1661-average-time-of-process-per-machine) |
 | [1907-count-salary-categories](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1907-count-salary-categories) |
