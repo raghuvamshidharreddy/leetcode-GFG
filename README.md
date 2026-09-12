@@ -25,6 +25,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0538-convert-bst-to-greater-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0700-search-in-a-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -44,6 +45,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0404-sum-of-left-leaves](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0404-sum-of-left-leaves) |
 | [0538-convert-bst-to-greater-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0543-diameter-of-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -79,6 +81,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0538-convert-bst-to-greater-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0700-search-in-a-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Stack
 |  |
@@ -103,6 +106,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0538-convert-bst-to-greater-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0538-convert-bst-to-greater-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0700-search-in-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0704-binary-search) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2054-two-best-non-overlapping-events](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2054-two-best-non-overlapping-events) |
 ## String
 |  |
