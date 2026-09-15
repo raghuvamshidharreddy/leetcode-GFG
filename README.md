@@ -119,6 +119,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0345-reverse-vowels-of-a-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0345-reverse-vowels-of-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0434-number-of-segments-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1002-find-common-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1002-find-common-characters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1108-defanging-an-ip-address) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -177,6 +178,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0704-binary-search](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0994-rotting-oranges](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0994-rotting-oranges) |
+| [1002-find-common-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1002-find-common-characters) |
 | [1260-shift-2d-grid](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1331-rank-transform-of-an-array) |
@@ -326,6 +328,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0012-integer-to-roman](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0013-roman-to-integer) |
 | [0149-max-points-on-a-line](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0149-max-points-on-a-line) |
+| [1002-find-common-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1002-find-common-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1331-rank-transform-of-an-array) |
 | [3731-find-missing-elements](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3731-find-missing-elements) |
 ## Simulation
