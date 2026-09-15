@@ -237,6 +237,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [1757-recyclable-and-low-fat-products](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1757-recyclable-and-low-fat-products) |
 | [1907-count-salary-categories](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1934-confirmation-rate) |
+| [3436-find-valid-emails](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3436-find-valid-emails) |
 ## Two Pointers
 |  |
 | ------- |
