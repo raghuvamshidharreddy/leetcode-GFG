@@ -181,6 +181,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0717-1-bit-and-2-bit-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0994-rotting-oranges](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0994-rotting-oranges) |
 | [1002-find-common-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1002-find-common-characters) |
+| [1122-relative-sort-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1122-relative-sort-array) |
 | [1260-shift-2d-grid](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1331-rank-transform-of-an-array) |
@@ -261,6 +262,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0015-3sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1122-relative-sort-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1331-rank-transform-of-an-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2054-two-best-non-overlapping-events) |
@@ -335,6 +337,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0013-roman-to-integer](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0013-roman-to-integer) |
 | [0149-max-points-on-a-line](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0149-max-points-on-a-line) |
 | [1002-find-common-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1002-find-common-characters) |
+| [1122-relative-sort-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1331-rank-transform-of-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2248-intersection-of-multiple-arrays) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -379,6 +382,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 ## Counting Sort
 |  |
 | ------- |
+| [1122-relative-sort-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1122-relative-sort-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2248-intersection-of-multiple-arrays) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Union-Find
@@ -414,4 +418,12 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 |  |
 | ------- |
 | [1195-fizz-buzz-multithreaded](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1195-fizz-buzz-multithreaded) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
