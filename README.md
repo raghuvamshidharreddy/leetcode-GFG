@@ -123,6 +123,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [1002-find-common-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1002-find-common-characters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1108-defanging-an-ip-address) |
+| [1154-day-of-the-year](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1154-day-of-the-year) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -149,6 +150,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0233-number-of-digit-one](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0233-number-of-digit-one) |
 | [0836-rectangle-overlap](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0836-rectangle-overlap) |
 | [0866-prime-palindrome](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0866-prime-palindrome) |
+| [1154-day-of-the-year](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1154-day-of-the-year) |
 | [1175-prime-arrangements](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1175-prime-arrangements) |
 | [2761-prime-pairs-with-target-sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2761-prime-pairs-with-target-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3513-number-of-unique-xor-triplets-i) |
