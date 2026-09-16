@@ -252,6 +252,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [3436-find-valid-emails](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3436-find-valid-emails) |
 | [3564-seasonal-sales-analysis](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3564-seasonal-sales-analysis) |
 | [3580-find-consistently-improving-employees](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3580-find-consistently-improving-employees) |
+| [3586-find-covid-recovery-patients](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3586-find-covid-recovery-patients) |
 ## Two Pointers
 |  |
 | ------- |
