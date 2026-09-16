@@ -230,6 +230,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [1174-immediate-food-delivery-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1211-queries-quality-and-percentage) |
+| [1251-average-selling-price](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1393-capital-gainloss) |
