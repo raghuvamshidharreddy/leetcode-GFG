@@ -250,6 +250,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [1907-count-salary-categories](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1934-confirmation-rate) |
 | [3436-find-valid-emails](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3436-find-valid-emails) |
+| [3564-seasonal-sales-analysis](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3564-seasonal-sales-analysis) |
 ## Two Pointers
 |  |
 | ------- |
