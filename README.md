@@ -123,6 +123,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [1002-find-common-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1002-find-common-characters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1108-defanging-an-ip-address) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -195,6 +196,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | ------- |
 | [0204-count-primes](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1291-sequential-digits) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2761-prime-pairs-with-target-sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2761-prime-pairs-with-target-sum) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
@@ -335,6 +337,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [1002-find-common-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1002-find-common-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1331-rank-transform-of-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2248-intersection-of-multiple-arrays) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3731-find-missing-elements](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
