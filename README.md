@@ -86,6 +86,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
@@ -114,6 +115,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | ------- |
 | [0012-integer-to-roman](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0022-generate-parentheses) |
 | [0224-basic-calculator](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0257-binary-tree-paths) |
@@ -445,5 +447,6 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
