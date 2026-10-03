@@ -87,6 +87,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
@@ -117,6 +118,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0013-roman-to-integer](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0345-reverse-vowels-of-a-string) |
@@ -371,6 +373,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0032-longest-valid-parentheses) |
 | [0119-pascals-triangle-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0119-pascals-triangle-ii) |
 | [0233-number-of-digit-one](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0233-number-of-digit-one) |
 | [0746-min-cost-climbing-stairs](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0746-min-cost-climbing-stairs) |
@@ -450,5 +453,6 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
