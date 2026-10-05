@@ -97,6 +97,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0224-basic-calculator](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Binary Search Tree
@@ -128,6 +129,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0438-find-all-anagrams-in-a-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0925-long-pressed-name) |
 | [1002-find-common-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1002-find-common-characters) |
@@ -469,5 +471,6 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0020-valid-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
