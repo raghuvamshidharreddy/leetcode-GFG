@@ -99,6 +99,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0678-valid-parenthesis-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Binary Search Tree
@@ -133,6 +134,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0678-valid-parenthesis-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0917-reverse-only-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0925-long-pressed-name) |
 | [1002-find-common-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1002-find-common-characters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -403,6 +405,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Monotonic Stack
@@ -480,6 +483,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0032-longest-valid-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Memoization
 |  |
