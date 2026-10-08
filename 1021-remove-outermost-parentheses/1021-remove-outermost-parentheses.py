@@ -2,6 +2,7 @@ class Solution:
     def removeOuterParentheses(self, s: str) -> str:
         counter=0
         l=[]
+        ans=""
         t=""
         for i in s:
             if i=="(":
@@ -11,8 +12,6 @@ class Solution:
                 counter-=1
                 t+=")"
             if counter==0:
-                l.append(t)
+                ans+=t[1:-1]
                 t=""
-        for i in range(len(l)):
-            l[i]=l[i][1:-1]
-        return ''.join(l)
+        return ans
