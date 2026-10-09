@@ -15,5 +15,5 @@ class Solution:
                 else:
                     x -= 1
             i += 1
-        ans += x << 1
+        ans += 2*x
         return ans
