@@ -178,6 +178,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | ------- |
 | [0022-generate-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0257-binary-tree-paths) |
 ## Math
@@ -208,6 +209,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0015-3sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0015-3sum) |
 | [0054-spiral-matrix](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0136-single-number) |
@@ -353,6 +355,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0137-single-number-ii) |
