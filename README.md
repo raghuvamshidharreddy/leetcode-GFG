@@ -119,6 +119,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0224-basic-calculator](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0402-remove-k-digits) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0739-daily-temperatures) |
@@ -160,6 +161,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0332-reconstruct-itinerary](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0332-reconstruct-itinerary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0402-remove-k-digits) |
 | [0434-number-of-segments-in-a-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -457,6 +459,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -465,6 +468,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Iterator
