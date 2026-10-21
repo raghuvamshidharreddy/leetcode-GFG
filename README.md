@@ -130,6 +130,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3174-clear-digits](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3174-clear-digits) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -179,6 +180,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3174-clear-digits](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3174-clear-digits) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -441,6 +443,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0054-spiral-matrix](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2022-convert-1d-array-into-2d-array) |
+| [3174-clear-digits](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
