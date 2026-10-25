@@ -29,6 +29,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0538-convert-bst-to-greater-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0572-subtree-of-another-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0897-increasing-order-search-tree) |
@@ -58,6 +59,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0538-convert-bst-to-greater-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0572-subtree-of-another-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0897-increasing-order-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -100,6 +102,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0538-convert-bst-to-greater-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0897-increasing-order-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -600,4 +603,12 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0332-reconstruct-itinerary) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
