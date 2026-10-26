@@ -172,6 +172,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0678-valid-parenthesis-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0680-valid-palindrome-ii) |
 | [0806-number-of-lines-to-write-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0806-number-of-lines-to-write-string) |
+| [0820-short-encoding-of-words](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0820-short-encoding-of-words) |
 | [0856-score-of-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -254,6 +255,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0739-daily-temperatures](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0746-min-cost-climbing-stairs) |
 | [0806-number-of-lines-to-write-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0806-number-of-lines-to-write-string) |
+| [0820-short-encoding-of-words](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0820-short-encoding-of-words) |
 | [0994-rotting-oranges](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0994-rotting-oranges) |
 | [1002-find-common-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1004-max-consecutive-ones-iii) |
@@ -447,6 +449,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0242-valid-anagram](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0594-longest-harmonious-subsequence) |
+| [0820-short-encoding-of-words](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0820-short-encoding-of-words) |
 | [1002-find-common-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1331-rank-transform-of-an-array) |
@@ -616,4 +619,8 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0572-subtree-of-another-tree) |
+## Trie
+|  |
+| ------- |
+| [0820-short-encoding-of-words](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0820-short-encoding-of-words) |
 <!---LeetCode Topics End-->
