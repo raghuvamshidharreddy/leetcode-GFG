@@ -216,6 +216,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0204-count-primes](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0233-number-of-digit-one) |
+| [0492-construct-the-rectangle](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0492-construct-the-rectangle) |
 | [0836-rectangle-overlap](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0836-rectangle-overlap) |
 | [0866-prime-palindrome](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0866-prime-palindrome) |
 | [1154-day-of-the-year](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1154-day-of-the-year) |
