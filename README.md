@@ -274,6 +274,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [2022-convert-1d-array-into-2d-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2054-two-best-non-overlapping-events) |
 | [2248-intersection-of-multiple-arrays](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2248-intersection-of-multiple-arrays) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2761-prime-pairs-with-target-sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2761-prime-pairs-with-target-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -373,6 +374,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [1710-maximum-units-on-a-truck](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1710-maximum-units-on-a-truck) |
 | [2054-two-best-non-overlapping-events](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2054-two-best-non-overlapping-events) |
 | [2248-intersection-of-multiple-arrays](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2248-intersection-of-multiple-arrays) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -432,6 +434,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0332-reconstruct-itinerary](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0332-reconstruct-itinerary) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2054-two-best-non-overlapping-events](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2054-two-best-non-overlapping-events) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Quickselect
 |  |
 | ------- |
@@ -462,6 +465,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [1331-rank-transform-of-an-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1331-rank-transform-of-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2248-intersection-of-multiple-arrays) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3731-find-missing-elements) |
 ## Simulation
@@ -470,6 +474,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0054-spiral-matrix](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3174-clear-digits](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -496,6 +501,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1710-maximum-units-on-a-truck](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1710-maximum-units-on-a-truck) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Monotonic Stack
 |  |
