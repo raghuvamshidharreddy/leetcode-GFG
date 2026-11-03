@@ -315,6 +315,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0596-classes-with-at-least-5-students](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0596-classes-with-at-least-5-students) |
 | [0601-human-traffic-of-stadium](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0601-human-traffic-of-stadium) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
+| [0610-triangle-judgement](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1045-customers-who-bought-all-products) |
