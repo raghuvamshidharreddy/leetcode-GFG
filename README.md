@@ -176,6 +176,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0763-partition-labels](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0763-partition-labels) |
 | [0806-number-of-lines-to-write-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0806-number-of-lines-to-write-string) |
 | [0820-short-encoding-of-words](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0820-short-encoding-of-words) |
+| [0821-shortest-distance-to-a-character](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0821-shortest-distance-to-a-character) |
 | [0856-score-of-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -262,6 +263,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0746-min-cost-climbing-stairs](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0746-min-cost-climbing-stairs) |
 | [0806-number-of-lines-to-write-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0806-number-of-lines-to-write-string) |
 | [0820-short-encoding-of-words](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0820-short-encoding-of-words) |
+| [0821-shortest-distance-to-a-character](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0821-shortest-distance-to-a-character) |
 | [0994-rotting-oranges](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0994-rotting-oranges) |
 | [1002-find-common-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1004-max-consecutive-ones-iii) |
@@ -369,6 +371,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0557-reverse-words-in-a-string-iii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0763-partition-labels) |
+| [0821-shortest-distance-to-a-character](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0925-long-pressed-name) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
