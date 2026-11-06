@@ -283,6 +283,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [2054-two-best-non-overlapping-events](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2054-two-best-non-overlapping-events) |
 | [2248-intersection-of-multiple-arrays](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2248-intersection-of-multiple-arrays) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2747-count-zero-request-servers](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2747-count-zero-request-servers) |
 | [2761-prime-pairs-with-target-sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2761-prime-pairs-with-target-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -397,6 +398,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [2054-two-best-non-overlapping-events](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2054-two-best-non-overlapping-events) |
 | [2248-intersection-of-multiple-arrays](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2248-intersection-of-multiple-arrays) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2747-count-zero-request-servers](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2747-count-zero-request-servers) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3536-maximum-product-of-two-digits) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -492,6 +494,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [2248-intersection-of-multiple-arrays](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2248-intersection-of-multiple-arrays) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2747-count-zero-request-servers](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2747-count-zero-request-servers) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3731-find-missing-elements) |
@@ -553,6 +556,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0643-maximum-average-subarray-i](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1004-max-consecutive-ones-iii) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2747-count-zero-request-servers](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Monotonic Queue
 |  |
