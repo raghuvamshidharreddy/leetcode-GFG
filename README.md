@@ -292,6 +292,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [3513-number-of-unique-xor-triplets-i](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3665-twisted-mirror-path-count](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3693-climbing-stairs-ii) |
 | [3731-find-missing-elements](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -527,6 +528,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [2054-two-best-non-overlapping-events](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2054-two-best-non-overlapping-events) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3665-twisted-mirror-path-count](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3693-climbing-stairs-ii) |
 ## Greedy
 |  |
 | ------- |
