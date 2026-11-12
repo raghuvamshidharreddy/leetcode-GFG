@@ -223,6 +223,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0204-count-primes](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0233-number-of-digit-one) |
+| [0292-nim-game](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0292-nim-game) |
 | [0492-construct-the-rectangle](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0492-construct-the-rectangle) |
 | [0836-rectangle-overlap](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0836-rectangle-overlap) |
 | [0866-prime-palindrome](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0866-prime-palindrome) |
@@ -683,4 +684,24 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 |  |
 | ------- |
 | [0820-short-encoding-of-words](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0820-short-encoding-of-words) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
