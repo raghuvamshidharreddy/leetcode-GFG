@@ -246,6 +246,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0078-subsets](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0149-max-points-on-a-line) |
@@ -521,6 +522,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0032-longest-valid-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0233-number-of-digit-one](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0300-longest-increasing-subsequence) |
