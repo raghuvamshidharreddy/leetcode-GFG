@@ -274,6 +274,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0821-shortest-distance-to-a-character](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0821-shortest-distance-to-a-character) |
 | [0892-surface-area-of-3d-shapes](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0892-surface-area-of-3d-shapes) |
 | [0994-rotting-oranges](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0994-rotting-oranges) |
+| [0999-available-captures-for-rook](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0999-available-captures-for-rook) |
 | [1002-find-common-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1004-max-consecutive-ones-iii) |
 | [1122-relative-sort-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1122-relative-sort-array) |
@@ -482,6 +483,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0566-reshape-the-matrix](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0566-reshape-the-matrix) |
 | [0892-surface-area-of-3d-shapes](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0892-surface-area-of-3d-shapes) |
 | [0994-rotting-oranges](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0994-rotting-oranges) |
+| [0999-available-captures-for-rook](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0999-available-captures-for-rook) |
 | [1260-shift-2d-grid](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1267-count-servers-that-communicate) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -513,6 +515,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | ------- |
 | [0054-spiral-matrix](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0566-reshape-the-matrix) |
+| [0999-available-captures-for-rook](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0999-available-captures-for-rook) |
 | [1260-shift-2d-grid](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
