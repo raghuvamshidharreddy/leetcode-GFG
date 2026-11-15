@@ -195,6 +195,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [1108-defanging-an-ip-address](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1154-day-of-the-year](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1154-day-of-the-year) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -286,6 +287,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [1002-find-common-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1004-max-consecutive-ones-iii) |
 | [1122-relative-sort-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1122-relative-sort-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1207-unique-number-of-occurrences) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1260-shift-2d-grid) |
@@ -517,6 +519,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0820-short-encoding-of-words](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0820-short-encoding-of-words) |
 | [1002-find-common-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1122-relative-sort-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1331-rank-transform-of-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2248-intersection-of-multiple-arrays) |
@@ -603,6 +606,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0594-longest-harmonious-subsequence) |
 | [1122-relative-sort-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1122-relative-sort-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1267-count-servers-that-communicate](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1267-count-servers-that-communicate) |
 | [2248-intersection-of-multiple-arrays](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2248-intersection-of-multiple-arrays) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3517-smallest-palindromic-rearrangement-i) |
