@@ -34,6 +34,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0700-search-in-a-binary-search-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0897-increasing-order-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -65,6 +66,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0897-increasing-order-search-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0897-increasing-order-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1267-count-servers-that-communicate](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1267-count-servers-that-communicate) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -81,6 +83,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0463-island-perimeter](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0463-island-perimeter) |
 | [0994-rotting-oranges](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0994-rotting-oranges) |
 | [1267-count-servers-that-communicate](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1267-count-servers-that-communicate) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -110,6 +113,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0700-search-in-a-binary-search-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0897-increasing-order-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Stack
 |  |
