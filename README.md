@@ -196,6 +196,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1154-day-of-the-year](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1154-day-of-the-year) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1436-destination-city](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1436-destination-city) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -298,6 +299,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1389-create-target-array-in-the-given-order](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1436-destination-city](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1436-destination-city) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1710-maximum-units-on-a-truck](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1710-maximum-units-on-a-truck) |
@@ -525,6 +527,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1331-rank-transform-of-an-array) |
+| [1436-destination-city](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1436-destination-city) |
 | [2248-intersection-of-multiple-arrays](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2248-intersection-of-multiple-arrays) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
