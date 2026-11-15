@@ -235,6 +235,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0836-rectangle-overlap](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0836-rectangle-overlap) |
 | [0866-prime-palindrome](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0866-prime-palindrome) |
 | [0892-surface-area-of-3d-shapes](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0892-surface-area-of-3d-shapes) |
+| [1025-divisor-game](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1025-divisor-game) |
 | [1154-day-of-the-year](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1154-day-of-the-year) |
 | [1175-prime-arrangements](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1175-prime-arrangements) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -558,6 +559,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0300-longest-increasing-subsequence](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0300-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0746-min-cost-climbing-stairs) |
+| [1025-divisor-game](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1025-divisor-game) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2054-two-best-non-overlapping-events) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -725,6 +727,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1025-divisor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -733,6 +736,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1025-divisor-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -741,4 +745,5 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
