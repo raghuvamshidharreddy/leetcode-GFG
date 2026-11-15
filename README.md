@@ -165,6 +165,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0032-longest-valid-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0076-minimum-window-substring) |
 | [0224-basic-calculator](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0257-binary-tree-paths) |
 | [0332-reconstruct-itinerary](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0332-reconstruct-itinerary) |
@@ -223,6 +224,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0204-count-primes](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0292-nim-game](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0292-nim-game) |
 | [0492-construct-the-rectangle](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0492-construct-the-rectangle) |
 | [0836-rectangle-overlap](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0836-rectangle-overlap) |
@@ -441,6 +443,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0206-reverse-linked-list](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0394-decode-string) |
 ## Bit Manipulation
 |  |
@@ -538,6 +541,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0233-number-of-digit-one](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0300-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0746-min-cost-climbing-stairs) |
@@ -645,6 +649,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0020-valid-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0032-longest-valid-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -655,6 +660,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
