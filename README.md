@@ -295,6 +295,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [1288-remove-covered-intervals](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1389-create-target-array-in-the-given-order](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -538,6 +539,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0999-available-captures-for-rook](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0999-available-captures-for-rook) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1260-shift-2d-grid) |
+| [1389-create-target-array-in-the-given-order](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1389-create-target-array-in-the-given-order) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3174-clear-digits](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3174-clear-digits) |
