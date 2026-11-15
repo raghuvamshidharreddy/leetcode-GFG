@@ -230,6 +230,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0892-surface-area-of-3d-shapes](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0892-surface-area-of-3d-shapes) |
 | [1154-day-of-the-year](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1154-day-of-the-year) |
 | [1175-prime-arrangements](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1175-prime-arrangements) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2761-prime-pairs-with-target-sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2761-prime-pairs-with-target-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -284,6 +285,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [1288-remove-covered-intervals](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1710-maximum-units-on-a-truck](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1710-maximum-units-on-a-truck) |
 | [1906-minimum-absolute-difference-queries](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1906-minimum-absolute-difference-queries) |
@@ -419,6 +421,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1004-max-consecutive-ones-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1906-minimum-absolute-difference-queries](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1906-minimum-absolute-difference-queries) |
 | [1991-find-the-middle-index-in-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1991-find-the-middle-index-in-array) |
@@ -538,6 +541,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0300-longest-increasing-subsequence](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0300-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0746-min-cost-climbing-stairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2054-two-best-non-overlapping-events) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3665-twisted-mirror-path-count](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3665-twisted-mirror-path-count) |
