@@ -472,11 +472,13 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0173-binary-search-tree-iterator](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0225-implement-stack-using-queues) |
 | [0307-range-sum-query-mutable](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0307-range-sum-query-mutable) |
+| [0933-number-of-recent-calls](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0239-sliding-window-maximum) |
+| [0933-number-of-recent-calls](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0933-number-of-recent-calls) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -749,4 +751,8 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | ------- |
 | [0292-nim-game](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1025-divisor-game) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
