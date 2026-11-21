@@ -327,6 +327,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [2054-two-best-non-overlapping-events](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2054-two-best-non-overlapping-events) |
 | [2248-intersection-of-multiple-arrays](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2248-intersection-of-multiple-arrays) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2670-find-the-distinct-difference-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2670-find-the-distinct-difference-array) |
 | [2747-count-zero-request-servers](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2747-count-zero-request-servers) |
 | [2761-prime-pairs-with-target-sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2761-prime-pairs-with-target-sum) |
@@ -427,6 +428,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0917-reverse-only-letters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0925-long-pressed-name) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
@@ -557,6 +559,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [2248-intersection-of-multiple-arrays](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2248-intersection-of-multiple-arrays) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2670-find-the-distinct-difference-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2670-find-the-distinct-difference-array) |
 | [2747-count-zero-request-servers](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2747-count-zero-request-servers) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
