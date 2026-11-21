@@ -184,6 +184,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0402-remove-k-digits](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0402-remove-k-digits) |
 | [0434-number-of-segments-in-a-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0539-minimum-time-difference](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0539-minimum-time-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0680-valid-palindrome-ii) |
@@ -242,6 +243,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0241-different-ways-to-add-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0292-nim-game](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0292-nim-game) |
 | [0492-construct-the-rectangle](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0492-construct-the-rectangle) |
+| [0539-minimum-time-difference](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0539-minimum-time-difference) |
 | [0836-rectangle-overlap](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0836-rectangle-overlap) |
 | [0866-prime-palindrome](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0866-prime-palindrome) |
 | [0892-surface-area-of-3d-shapes](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0892-surface-area-of-3d-shapes) |
@@ -285,6 +287,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0498-diagonal-traverse) |
+| [0539-minimum-time-difference](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0594-longest-harmonious-subsequence) |
@@ -430,6 +433,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0242-valid-anagram](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0242-valid-anagram) |
 | [0332-reconstruct-itinerary](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0332-reconstruct-itinerary) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0539-minimum-time-difference](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0594-longest-harmonious-subsequence) |
 | [1122-relative-sort-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1288-remove-covered-intervals) |
