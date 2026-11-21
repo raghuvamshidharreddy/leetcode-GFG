@@ -320,6 +320,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1710-maximum-units-on-a-truck](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1710-maximum-units-on-a-truck) |
+| [1748-sum-of-unique-elements](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1748-sum-of-unique-elements) |
 | [1906-minimum-absolute-difference-queries](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1906-minimum-absolute-difference-queries) |
 | [1991-find-the-middle-index-in-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1991-find-the-middle-index-in-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -551,6 +552,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [1331-rank-transform-of-an-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1436-destination-city) |
+| [1748-sum-of-unique-elements](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1748-sum-of-unique-elements) |
 | [2248-intersection-of-multiple-arrays](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2248-intersection-of-multiple-arrays) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -642,6 +644,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1267-count-servers-that-communicate](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1267-count-servers-that-communicate) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1748-sum-of-unique-elements) |
 | [2248-intersection-of-multiple-arrays](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2248-intersection-of-multiple-arrays) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
