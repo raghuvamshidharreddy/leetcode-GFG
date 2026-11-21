@@ -284,6 +284,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0332-reconstruct-itinerary](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0332-reconstruct-itinerary) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0594-longest-harmonious-subsequence) |
@@ -517,6 +518,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0200-number-of-islands](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0566-reshape-the-matrix) |
 | [0892-surface-area-of-3d-shapes](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0892-surface-area-of-3d-shapes) |
 | [0994-rotting-oranges](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0994-rotting-oranges) |
@@ -554,6 +556,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0566-reshape-the-matrix) |
 | [0999-available-captures-for-rook](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0999-available-captures-for-rook) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1252-cells-with-odd-values-in-a-matrix) |
