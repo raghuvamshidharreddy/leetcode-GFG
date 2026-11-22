@@ -305,6 +305,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [1002-find-common-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1004-max-consecutive-ones-iii) |
 | [1122-relative-sort-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1122-relative-sort-array) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1207-unique-number-of-occurrences) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -551,6 +552,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0820-short-encoding-of-words](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0820-short-encoding-of-words) |
 | [1002-find-common-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1122-relative-sort-array) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1331-rank-transform-of-an-array) |
@@ -648,6 +650,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0594-longest-harmonious-subsequence) |
 | [1122-relative-sort-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1122-relative-sort-array) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1267-count-servers-that-communicate](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1267-count-servers-that-communicate) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1394-find-lucky-integer-in-an-array) |
