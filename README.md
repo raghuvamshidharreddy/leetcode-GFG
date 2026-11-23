@@ -204,6 +204,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [1154-day-of-the-year](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1154-day-of-the-year) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1436-destination-city](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1436-destination-city) |
+| [1446-consecutive-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1446-consecutive-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
