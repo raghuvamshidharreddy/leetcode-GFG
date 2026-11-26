@@ -255,6 +255,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2761-prime-pairs-with-target-sum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2761-prime-pairs-with-target-sum) |
+| [3360-stone-removal-game](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3360-stone-removal-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3536-maximum-product-of-two-digits) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -583,6 +584,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [2022-convert-1d-array-into-2d-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3174-clear-digits](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3174-clear-digits) |
+| [3360-stone-removal-game](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
