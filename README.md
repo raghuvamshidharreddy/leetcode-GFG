@@ -206,6 +206,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [1436-destination-city](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1436-destination-city) |
 | [1446-consecutive-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1446-consecutive-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1763-longest-nice-substring](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1763-longest-nice-substring) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -491,6 +492,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0090-subsets-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0137-single-number-ii) |
+| [1763-longest-nice-substring](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1763-longest-nice-substring) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Design
 |  |
@@ -510,6 +512,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0307-range-sum-query-mutable) |
+| [1763-longest-nice-substring](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -561,6 +564,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [1394-find-lucky-integer-in-an-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1436-destination-city) |
 | [1748-sum-of-unique-elements](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1748-sum-of-unique-elements) |
+| [1763-longest-nice-substring](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1763-longest-nice-substring) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2248-intersection-of-multiple-arrays) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -640,6 +644,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0594-longest-harmonious-subsequence](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1004-max-consecutive-ones-iii) |
+| [1763-longest-nice-substring](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1763-longest-nice-substring) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2747-count-zero-request-servers](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
