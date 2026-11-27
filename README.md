@@ -294,6 +294,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0540-single-element-in-a-sorted-array](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0594-longest-harmonious-subsequence) |
+| [0605-can-place-flowers](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -615,6 +616,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0402-remove-k-digits) |
+| [0605-can-place-flowers](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0763-partition-labels) |
