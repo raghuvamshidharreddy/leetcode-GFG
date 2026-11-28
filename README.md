@@ -177,6 +177,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0022-generate-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0187-repeated-dna-sequences) |
 | [0224-basic-calculator](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0241-different-ways-to-add-parentheses) |
@@ -501,6 +502,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0090-subsets-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0187-repeated-dna-sequences) |
 | [1763-longest-nice-substring](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/1763-longest-nice-substring) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Design
@@ -559,6 +561,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 | [0013-roman-to-integer](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0076-minimum-window-substring) |
 | [0149-max-points-on-a-line](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0149-max-points-on-a-line) |
+| [0187-repeated-dna-sequences](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0594-longest-harmonious-subsequence) |
@@ -650,6 +653,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0594-longest-harmonious-subsequence) |
@@ -781,6 +785,7 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0187-repeated-dna-sequences) |
 | [0572-subtree-of-another-tree](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0572-subtree-of-another-tree) |
 ## Trie
 |  |
@@ -813,4 +818,16 @@ My LeetCode Profile -[LeetCode](https://leetcode.com/u/v_raghuvamshidharreddy/)
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0933-number-of-recent-calls) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/raghuvamshidharreddy/leetcode-GFG/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
